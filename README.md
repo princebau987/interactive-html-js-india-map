@@ -4,7 +4,7 @@ Bharat Atlas is a responsive interactive map of India with clickable states
 and union territories, city markers, search, region filters, zoom and pan,
 state details, city details, and reusable website embedding.
 
-# Download Link
+# Download
 https://prince987.gumroad.com/l/fzzpk
 
 ## Files
