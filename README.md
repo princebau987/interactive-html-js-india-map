@@ -4,6 +4,8 @@ Bharat Atlas is a responsive interactive map of India with clickable states
 and union territories, city markers, search, region filters, zoom and pan,
 state details, city details, and reusable website embedding.
 
+View demo video: https://github.com/user-attachments/assets/ac5b872b-4d56-4bc7-b0aa-cdf23462fe6f
+
 # Download
 https://prince987.gumroad.com/l/fzzpk
 
@@ -93,7 +95,6 @@ or provide your own `src` page.
 - Edit existing states/city details
 
 <img width="944" height="419" alt="6_map" src="https://github.com/user-attachments/assets/2df2461e-a1c4-464f-a11b-dedfeb3f7f8a" />
-https://github.com/user-attachments/assets/ac5b872b-4d56-4bc7-b0aa-cdf23462fe6f
 
 ## Customizing state content
 
