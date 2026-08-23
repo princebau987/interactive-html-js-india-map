@@ -7,6 +7,8 @@ state details, city details, and reusable website embedding.
 # Download
 https://prince987.gumroad.com/l/fzzpk
 
+<img width="953" height="452" alt="2_map" src="https://github.com/user-attachments/assets/549756e5-a219-49b1-ad29-56d1d7a106c4" />
+
 ## Files
 
 ```text
