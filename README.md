@@ -92,6 +92,8 @@ or provide your own `src` page.
 - Add new cities to the Map
 - Edit existing states/city details
 
+<img width="944" height="419" alt="6_map" src="https://github.com/user-attachments/assets/2df2461e-a1c4-464f-a11b-dedfeb3f7f8a" />
+
 ## Customizing state content
 
 Edit `js/map-data.js`. Each state or union territory contains fields such as:
